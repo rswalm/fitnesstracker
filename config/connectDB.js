@@ -6,7 +6,7 @@ const dbConfig = "mongodb+srv://robin:Madonna80$@cluster0.1wiv2.mongodb.net/test
 
 
 // const MongoClient = require('mongodb').MongoClient;
-// const uri = "mongodb+srv://mj01:Abc@abc123@cluster0.0janp.mongodb.net/FitnessTracker?retryWrites=true&w=majority";
+// const uri = "mongodb+srv://robin:Abc@abc123@cluster0.0janp.mongodb.net/FitnessTracker?retryWrites=true&w=majority";
 // const client = new MongoClient(uri, { useNewUrlParser: true });
 // client.connect(err => {
 //   const collection = client.db("test").collection("devices");
